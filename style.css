@@ -1,0 +1,33 @@
+.rød {
+    box-shadow: -5px 10px 20px 10px black inset;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.gul {
+    box-shadow: -5px 10px 20px 10px black inset;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.grønn {
+    box-shadow: -5px 10px 20px 10px black inset;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#trafikklys{
+    width: 100px;
+    height: 350px;
+    background-color: #4e4c4c;
+    border-radius: 5em;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 15px;
+    border: 5.9px solid black;
+}
